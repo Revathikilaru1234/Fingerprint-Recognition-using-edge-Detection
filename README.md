@@ -1,4 +1,6 @@
 Fingerprint Recognition using Edge Detection
+
+
 📌 Project Overview
 
 This project focuses on fingerprint image processing using edge detection techniques. Fingerprints are widely used in biometric authentication due to their uniqueness and reliability. The aim of this project is to enhance fingerprint features, detect edges, and compare similarity metrics for recognition purposes.
